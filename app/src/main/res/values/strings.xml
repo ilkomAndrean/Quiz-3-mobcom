@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz 3</string>
+    <string name="Add_New">Add New</string>
+    <string name="edit">Edit Student</string>
+    <string name="delete">Delete Student</string>
+    <string name="title_activity_display_student">DisplayStudent</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="noreg">Noreg</string>
+    <string name="save">Save Student</string>
+    <string name="deleteStudent">Are you sure, you want to delete it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
